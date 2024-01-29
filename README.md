@@ -1,5 +1,9 @@
-<h1 align="center">Hi there, I'm Tatiana Bulaeva
 
+### Hi there 👋, my name is Tatiana Bulaeva
+#### I'm a frontend developer
+
+
+- 📫 How to reach me: bulaeva.tatiana89@gmail.com 
 <!--
 **tanya-bulaeva/tanya-bulaeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
