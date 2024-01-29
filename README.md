@@ -1,5 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Tatiana Bulaeva</a> 
-
+- 🌱 I'm a frontend developer
+- 📫 How to reach me: bulaeva.tatiana89@gmail.com
 
 <!--
 **tanya-bulaeva/tanya-bulaeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
